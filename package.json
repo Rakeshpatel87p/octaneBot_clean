@@ -1,0 +1,18 @@
+{
+  "name": "octane-bot-upgrade",
+  "version": "1.0.0",
+  "description": "",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^1.16.1",
+    "express": "^4.14.1",
+    "mongodb": "^2.2.24",
+    "mongoose": "^4.8.4",
+    "request": "^2.79.0"
+  }
+}
